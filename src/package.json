@@ -1,0 +1,11 @@
+{
+  "name": "js_learn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "唛闹 <421248827@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "flow-bin": "^0.164.0",
+    "flow-remove-types": "^2.164.0"
+  }
+}
